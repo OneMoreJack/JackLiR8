@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <p>
 
 ![](https://komarev.com/ghpvc/?username=JackLiR8)
-[![Zhihu](https://img.shields.io/badge/dynamic/json?color=142026&labelColor=0066ff&logo=zhihu&logoColor=white&label=zhihu)](https://www.zhihu.com/people/shan-shang-de-zi-dian)
-[![Juejin](https://img.shields.io/badge/juejin?logo=bytedance)](https://juejin.cn/user/3790771823325854)
+[![Zhihu](https://img.shields.io/static/v1?label=zhihu&color=0066ff&logo=zhihu)](https://www.zhihu.com/people/shan-shang-de-zi-dian)
 [![Github Stars](https://img.shields.io/github/stars/JackLiR8?color=faf408&label=github%20stars&logo=github)](https://github.com/JackLiR8)
 
 </p>
